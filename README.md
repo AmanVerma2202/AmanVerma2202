@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/AmanVerma2202/AmanVerma2202/main/banner-3.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/AmanVerma2202/AmanVerma2202/main/header.png"> </div>
 <h3 align="center">Where Code Meets Creativity: Full Stack Web Development(MERN)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanverma2202&label=Profile%20views&color=0e75b6&style=flat" alt="amanverma2202" /> </p>
