@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanverma2202" alt="amanverma2202" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [RJ&Snacks](https://github.com/AmanVerma2202/RJ-Snacks)
+- 🔭 I’m currently working on [Aggregate](https://github.com/AmanVerma2202/AGGREGATE)
 
 - 🌱 I’m currently learning **Next.js, Appwrite**
 
