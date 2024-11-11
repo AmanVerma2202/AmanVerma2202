@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Aggregate](https://github.com/AmanVerma2202/AGGREGATE) and RJ&Snacks
 
-- 🌱 I’m currently learning **Next.js, Appwrite**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **React.js,JavaScript and Node.js**
 
