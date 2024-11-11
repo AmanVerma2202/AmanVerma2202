@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanverma2202" alt="amanverma2202" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [Aggregate](https://github.com/AmanVerma2202/AGGREGATE)
+- 🔭 I’m currently working on [Aggregate](https://github.com/AmanVerma2202/AGGREGATE) and RJ&Snacks
 
 - 🌱 I’m currently learning **Next.js, Appwrite**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aka.amanverma@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sBa3pKTLnDPEUZNl95AbIcpS9lXphJgb/view?usp=sharing](https://drive.google.com/file/d/1sBa3pKTLnDPEUZNl95AbIcpS9lXphJgb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DudSxTt-uOpASmnnog0Thz-KxEVfpzoh/view?usp=sharing](https://drive.google.com/file/d/1sBa3pKTLnDPEUZNl95AbIcpS9lXphJgb/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am a Developer😂**
 
