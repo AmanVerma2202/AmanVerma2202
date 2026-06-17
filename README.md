@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I am Aman Verma,
 💼 Currently working as Software Engineer @ Infosys<br>🤖 Building and exploring GenAI Applications, AI Agents, and RAG Systems<br>🌱 Currently learning DevOps, Docker, Kubernetes, CI/CD and AWS<br>🔭 Worked on UrNumerals and AI-powered applications<br>💬 Ask me about Java, Python, MERN, GenAI and System Design<br>📫 Reach me at aka.amanverma@gmail.com<br>🏏 Former Captain of Lucknow U-19 Cricket Team<br>"Keep Learning. Keep Building. Keep Shipping."
 
 
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=AmanVerma2202&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AmanVerma2202&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmanVerma2202&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmanVerma2202&limit=5&theme=dark&combine_all_yearly_contributions=true)
